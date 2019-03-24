@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6b87bcfa-2e48-4955-8b3c-38e7c7cb0ba5/resourceGroups/2019AndyZheng0813/providers/Microsoft.Web/sites/2019AndyZheng0813",
+    "appService.deploySubpath": ""
+}
